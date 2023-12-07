@@ -1,0 +1,17 @@
+D:\Projeler\Restorant\restorant.business\bin\Debug\net7.0\restorant.business.deps.json
+D:\Projeler\Restorant\restorant.business\bin\Debug\net7.0\restorant.business.dll
+D:\Projeler\Restorant\restorant.business\bin\Debug\net7.0\restorant.business.pdb
+D:\Projeler\Restorant\restorant.business\bin\Debug\net7.0\restorant.data.dll
+D:\Projeler\Restorant\restorant.business\bin\Debug\net7.0\restorant.entity.dll
+D:\Projeler\Restorant\restorant.business\bin\Debug\net7.0\restorant.data.pdb
+D:\Projeler\Restorant\restorant.business\bin\Debug\net7.0\restorant.entity.pdb
+D:\Projeler\Restorant\restorant.business\obj\Debug\net7.0\restorant.business.csproj.AssemblyReference.cache
+D:\Projeler\Restorant\restorant.business\obj\Debug\net7.0\restorant.business.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projeler\Restorant\restorant.business\obj\Debug\net7.0\restorant.business.AssemblyInfoInputs.cache
+D:\Projeler\Restorant\restorant.business\obj\Debug\net7.0\restorant.business.AssemblyInfo.cs
+D:\Projeler\Restorant\restorant.business\obj\Debug\net7.0\restorant.business.csproj.CoreCompileInputs.cache
+D:\Projeler\Restorant\restorant.business\obj\Debug\net7.0\restorant.business.csproj.CopyComplete
+D:\Projeler\Restorant\restorant.business\obj\Debug\net7.0\restorant.business.dll
+D:\Projeler\Restorant\restorant.business\obj\Debug\net7.0\refint\restorant.business.dll
+D:\Projeler\Restorant\restorant.business\obj\Debug\net7.0\restorant.business.pdb
+D:\Projeler\Restorant\restorant.business\obj\Debug\net7.0\ref\restorant.business.dll

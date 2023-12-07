@@ -1,0 +1,11 @@
+D:\Projeler\Restorant\restorant.entity\bin\Debug\net7.0\restorant.entity.deps.json
+D:\Projeler\Restorant\restorant.entity\bin\Debug\net7.0\restorant.entity.dll
+D:\Projeler\Restorant\restorant.entity\bin\Debug\net7.0\restorant.entity.pdb
+D:\Projeler\Restorant\restorant.entity\obj\Debug\net7.0\restorant.entity.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projeler\Restorant\restorant.entity\obj\Debug\net7.0\restorant.entity.AssemblyInfoInputs.cache
+D:\Projeler\Restorant\restorant.entity\obj\Debug\net7.0\restorant.entity.AssemblyInfo.cs
+D:\Projeler\Restorant\restorant.entity\obj\Debug\net7.0\restorant.entity.csproj.CoreCompileInputs.cache
+D:\Projeler\Restorant\restorant.entity\obj\Debug\net7.0\restorant.entity.dll
+D:\Projeler\Restorant\restorant.entity\obj\Debug\net7.0\refint\restorant.entity.dll
+D:\Projeler\Restorant\restorant.entity\obj\Debug\net7.0\restorant.entity.pdb
+D:\Projeler\Restorant\restorant.entity\obj\Debug\net7.0\ref\restorant.entity.dll
