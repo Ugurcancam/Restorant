@@ -1,36 +1,43 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projeler\\Restorant\\restorant.api\\restorant.api.csproj": {}
+    "D:\\Github\\Restorant\\restorant.api\\restorant.api.csproj": {}
   },
   "projects": {
-    "D:\\Projeler\\Restorant\\restorant.api\\restorant.api.csproj": {
+    "D:\\Github\\Restorant\\restorant.api\\restorant.api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projeler\\Restorant\\restorant.api\\restorant.api.csproj",
+        "projectUniqueName": "D:\\Github\\Restorant\\restorant.api\\restorant.api.csproj",
         "projectName": "restorant.api",
-        "projectPath": "D:\\Projeler\\Restorant\\restorant.api\\restorant.api.csproj",
+        "projectPath": "D:\\Github\\Restorant\\restorant.api\\restorant.api.csproj",
         "packagesPath": "C:\\Users\\ugurc\\.nuget\\packages\\",
-        "outputPath": "D:\\Projeler\\Restorant\\restorant.api\\obj\\",
+        "outputPath": "D:\\Github\\Restorant\\restorant.api\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\ugurc\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\ugurc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\Projeler\\Restorant\\restorant.business\\restorant.business.csproj": {
-                "projectPath": "D:\\Projeler\\Restorant\\restorant.business\\restorant.business.csproj"
+              "D:\\Github\\Restorant\\restorant.business\\restorant.business.csproj": {
+                "projectPath": "D:\\Github\\Restorant\\restorant.business\\restorant.business.csproj"
               },
-              "D:\\Projeler\\Restorant\\restorant.dto\\restorant.dto.csproj": {
-                "projectPath": "D:\\Projeler\\Restorant\\restorant.dto\\restorant.dto.csproj"
+              "D:\\Github\\Restorant\\restorant.dto\\restorant.dto.csproj": {
+                "projectPath": "D:\\Github\\Restorant\\restorant.dto\\restorant.dto.csproj"
               }
             }
           }
@@ -87,34 +94,41 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.404\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Projeler\\Restorant\\restorant.business\\restorant.business.csproj": {
+    "D:\\Github\\Restorant\\restorant.business\\restorant.business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projeler\\Restorant\\restorant.business\\restorant.business.csproj",
+        "projectUniqueName": "D:\\Github\\Restorant\\restorant.business\\restorant.business.csproj",
         "projectName": "restorant.business",
-        "projectPath": "D:\\Projeler\\Restorant\\restorant.business\\restorant.business.csproj",
+        "projectPath": "D:\\Github\\Restorant\\restorant.business\\restorant.business.csproj",
         "packagesPath": "C:\\Users\\ugurc\\.nuget\\packages\\",
-        "outputPath": "D:\\Projeler\\Restorant\\restorant.business\\obj\\",
+        "outputPath": "D:\\Github\\Restorant\\restorant.business\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\ugurc\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\ugurc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\Projeler\\Restorant\\restorant.data\\restorant.data.csproj": {
-                "projectPath": "D:\\Projeler\\Restorant\\restorant.data\\restorant.data.csproj"
+              "D:\\Github\\Restorant\\restorant.data\\restorant.data.csproj": {
+                "projectPath": "D:\\Github\\Restorant\\restorant.data\\restorant.data.csproj"
               }
             }
           }
@@ -144,34 +158,41 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.404\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Projeler\\Restorant\\restorant.data\\restorant.data.csproj": {
+    "D:\\Github\\Restorant\\restorant.data\\restorant.data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projeler\\Restorant\\restorant.data\\restorant.data.csproj",
+        "projectUniqueName": "D:\\Github\\Restorant\\restorant.data\\restorant.data.csproj",
         "projectName": "restorant.data",
-        "projectPath": "D:\\Projeler\\Restorant\\restorant.data\\restorant.data.csproj",
+        "projectPath": "D:\\Github\\Restorant\\restorant.data\\restorant.data.csproj",
         "packagesPath": "C:\\Users\\ugurc\\.nuget\\packages\\",
-        "outputPath": "D:\\Projeler\\Restorant\\restorant.data\\obj\\",
+        "outputPath": "D:\\Github\\Restorant\\restorant.data\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\ugurc\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\ugurc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\Projeler\\Restorant\\restorant.entity\\restorant.entity.csproj": {
-                "projectPath": "D:\\Projeler\\Restorant\\restorant.entity\\restorant.entity.csproj"
+              "D:\\Github\\Restorant\\restorant.entity\\restorant.entity.csproj": {
+                "projectPath": "D:\\Github\\Restorant\\restorant.entity\\restorant.entity.csproj"
               }
             }
           }
@@ -223,26 +244,33 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.404\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Projeler\\Restorant\\restorant.dto\\restorant.dto.csproj": {
+    "D:\\Github\\Restorant\\restorant.dto\\restorant.dto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projeler\\Restorant\\restorant.dto\\restorant.dto.csproj",
+        "projectUniqueName": "D:\\Github\\Restorant\\restorant.dto\\restorant.dto.csproj",
         "projectName": "restorant.dto",
-        "projectPath": "D:\\Projeler\\Restorant\\restorant.dto\\restorant.dto.csproj",
+        "projectPath": "D:\\Github\\Restorant\\restorant.dto\\restorant.dto.csproj",
         "packagesPath": "C:\\Users\\ugurc\\.nuget\\packages\\",
-        "outputPath": "D:\\Projeler\\Restorant\\restorant.dto\\obj\\",
+        "outputPath": "D:\\Github\\Restorant\\restorant.dto\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\ugurc\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\ugurc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -276,26 +304,33 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.404\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Projeler\\Restorant\\restorant.entity\\restorant.entity.csproj": {
+    "D:\\Github\\Restorant\\restorant.entity\\restorant.entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projeler\\Restorant\\restorant.entity\\restorant.entity.csproj",
+        "projectUniqueName": "D:\\Github\\Restorant\\restorant.entity\\restorant.entity.csproj",
         "projectName": "restorant.entity",
-        "projectPath": "D:\\Projeler\\Restorant\\restorant.entity\\restorant.entity.csproj",
+        "projectPath": "D:\\Github\\Restorant\\restorant.entity\\restorant.entity.csproj",
         "packagesPath": "C:\\Users\\ugurc\\.nuget\\packages\\",
-        "outputPath": "D:\\Projeler\\Restorant\\restorant.entity\\obj\\",
+        "outputPath": "D:\\Github\\Restorant\\restorant.entity\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\ugurc\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\ugurc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -329,7 +364,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.404\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

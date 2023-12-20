@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nhGPVSyKjTBHGJuM9w21g+X+/nCAMzphHgwKorzmzEQxUDsIVTOipSbLGG4huHFf3c0P68goweATqgPnKeOjTQ==",
+  "dgSpecHash": "dUWLthyCn5ZezA75+HJgqKc5srPryXJOcmkGwghW0G3TrqirUtZlfim5F81/c+m66dBrlGPhhbTIMI/BzvQ2Cg==",
   "success": true,
-  "projectFilePath": "D:\\Projeler\\Restorant\\restorant.entity\\restorant.entity.csproj",
+  "projectFilePath": "D:\\Github\\Restorant\\restorant.entity\\restorant.entity.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
