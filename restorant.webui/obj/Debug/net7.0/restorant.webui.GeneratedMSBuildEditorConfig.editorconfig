@@ -9,37 +9,157 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = restorant.webui
 build_property.RootNamespace = restorant.webui
-build_property.ProjectDir = D:\Projeler\Restorant\restorant.webui\
+build_property.ProjectDir = C:\Users\ugurc\OneDrive\Belgeler\GitHub\Restorant\restorant.webui\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Projeler\Restorant\restorant.webui
+build_property.MSBuildProjectDirectory = C:\Users\ugurc\OneDrive\Belgeler\GitHub\Restorant\restorant.webui
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Projeler/Restorant/restorant.webui/Views/Home/Index.cshtml]
+[C:/Users/ugurc/OneDrive/Belgeler/GitHub/Restorant/restorant.webui/Views/Admin/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWJvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ugurc/OneDrive/Belgeler/GitHub/Restorant/restorant.webui/Views/Admin/AddAbout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRkQWJvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ugurc/OneDrive/Belgeler/GitHub/Restorant/restorant.webui/Views/Admin/AddBooking.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRkQm9va2luZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ugurc/OneDrive/Belgeler/GitHub/Restorant/restorant.webui/Views/Admin/AddCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRkQ2F0ZWdvcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ugurc/OneDrive/Belgeler/GitHub/Restorant/restorant.webui/Views/Admin/AddContact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRkQ29udGFjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ugurc/OneDrive/Belgeler/GitHub/Restorant/restorant.webui/Views/Admin/AddDiscount.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRkRGlzY291bnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ugurc/OneDrive/Belgeler/GitHub/Restorant/restorant.webui/Views/Admin/AddFeature.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRkRmVhdHVyZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ugurc/OneDrive/Belgeler/GitHub/Restorant/restorant.webui/Views/Admin/AddProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRkUHJvZHVjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ugurc/OneDrive/Belgeler/GitHub/Restorant/restorant.webui/Views/Admin/AddTestimonial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRkVGVzdGltb25pYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ugurc/OneDrive/Belgeler/GitHub/Restorant/restorant.webui/Views/Admin/Bookings.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQm9va2luZ3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ugurc/OneDrive/Belgeler/GitHub/Restorant/restorant.webui/Views/Admin/Categories.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ2F0ZWdvcmllcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ugurc/OneDrive/Belgeler/GitHub/Restorant/restorant.webui/Views/Admin/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ29udGFjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ugurc/OneDrive/Belgeler/GitHub/Restorant/restorant.webui/Views/Admin/Discount.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRGlzY291bnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ugurc/OneDrive/Belgeler/GitHub/Restorant/restorant.webui/Views/Admin/Feature.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRmVhdHVyZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ugurc/OneDrive/Belgeler/GitHub/Restorant/restorant.webui/Views/Admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ugurc/OneDrive/Belgeler/GitHub/Restorant/restorant.webui/Views/Admin/Products.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUHJvZHVjdHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ugurc/OneDrive/Belgeler/GitHub/Restorant/restorant.webui/Views/Admin/Testimonial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVGVzdGltb25pYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ugurc/OneDrive/Belgeler/GitHub/Restorant/restorant.webui/Views/Admin/UpdateAbout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVXBkYXRlQWJvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ugurc/OneDrive/Belgeler/GitHub/Restorant/restorant.webui/Views/Admin/UpdateBooking.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVXBkYXRlQm9va2luZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ugurc/OneDrive/Belgeler/GitHub/Restorant/restorant.webui/Views/Admin/UpdateCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVXBkYXRlQ2F0ZWdvcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ugurc/OneDrive/Belgeler/GitHub/Restorant/restorant.webui/Views/Admin/UpdateContact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVXBkYXRlQ29udGFjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ugurc/OneDrive/Belgeler/GitHub/Restorant/restorant.webui/Views/Admin/UpdateDiscount.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVXBkYXRlRGlzY291bnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ugurc/OneDrive/Belgeler/GitHub/Restorant/restorant.webui/Views/Admin/UpdateFeature.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVXBkYXRlRmVhdHVyZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ugurc/OneDrive/Belgeler/GitHub/Restorant/restorant.webui/Views/Admin/UpdateProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVXBkYXRlUHJvZHVjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ugurc/OneDrive/Belgeler/GitHub/Restorant/restorant.webui/Views/Admin/UpdateTestimonial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVXBkYXRlVGVzdGltb25pYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ugurc/OneDrive/Belgeler/GitHub/Restorant/restorant.webui/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projeler/Restorant/restorant.webui/Views/Home/Privacy.cshtml]
+[C:/Users/ugurc/OneDrive/Belgeler/GitHub/Restorant/restorant.webui/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projeler/Restorant/restorant.webui/Views/Shared/Error.cshtml]
+[C:/Users/ugurc/OneDrive/Belgeler/GitHub/Restorant/restorant.webui/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projeler/Restorant/restorant.webui/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/ugurc/OneDrive/Belgeler/GitHub/Restorant/restorant.webui/Views/Shared/_AdminNavbar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BZG1pbk5hdmJhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ugurc/OneDrive/Belgeler/GitHub/Restorant/restorant.webui/Views/Shared/_AdminScripts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BZG1pblNjcmlwdHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ugurc/OneDrive/Belgeler/GitHub/Restorant/restorant.webui/Views/Shared/_AdminSidebar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BZG1pblNpZGViYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ugurc/OneDrive/Belgeler/GitHub/Restorant/restorant.webui/Views/Shared/_LayoutAdmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRBZG1pbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ugurc/OneDrive/Belgeler/GitHub/Restorant/restorant.webui/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projeler/Restorant/restorant.webui/Views/_ViewImports.cshtml]
+[C:/Users/ugurc/OneDrive/Belgeler/GitHub/Restorant/restorant.webui/Views/SignalR/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2lnbmFsUlxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ugurc/OneDrive/Belgeler/GitHub/Restorant/restorant.webui/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projeler/Restorant/restorant.webui/Views/_ViewStart.cshtml]
+[C:/Users/ugurc/OneDrive/Belgeler/GitHub/Restorant/restorant.webui/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projeler/Restorant/restorant.webui/Views/Shared/_Layout.cshtml]
+[C:/Users/ugurc/OneDrive/Belgeler/GitHub/Restorant/restorant.webui/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-ywgqakqg91

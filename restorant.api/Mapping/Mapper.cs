@@ -53,6 +53,7 @@ namespace restorant.api.Mapping
             CreateMap<Product,CreateProductDto>().ReverseMap();
             CreateMap<Product,UpdateProductDto>().ReverseMap();
             CreateMap<Product,GetProductDto>().ReverseMap();
+            CreateMap<Product,GetProductWithCategoryDto>().ReverseMap();
 
             CreateMap<Testimonial,ResultTestimonialDto>().ReverseMap();
             CreateMap<Testimonial,CreateTestimonialDto>().ReverseMap();

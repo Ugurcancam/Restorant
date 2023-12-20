@@ -1,0 +1,50 @@
+﻿@model UpdateContactDto
+@{
+    Layout = "_LayoutAdmin";
+}
+
+
+
+<div class="content">
+    <div class="container-fluid">
+        <h4 class="page-title">İletişim İşlemleri</h4>
+        <div class="row">
+            <div class="col-md-12">
+                <form method="post" asp-controller="Admin" asp-action="UpdateContact">
+                    <div class="card">
+                        <div class="card-header">
+                            <div class="card-title">Yeni İletişim Girişi</div>
+                        </div>
+                        <div class="card-body">
+                            <div class="form-group">
+                                <label for="name">İletişim Konum URL</label>
+                                <input type="text" class="form-control" asp-for="Location">
+                            </div>
+                        </div>
+                        <div class="card-body">
+                            <div class="form-group">
+                                <label for="name">İletişim Açıklaması</label>
+                                <input type="text" class="form-control" asp-for="Description">
+                            </div>
+                        </div>
+                        <div class="card-body">
+                            <div class="form-group">
+                                <label for="name">İletişim maili</label>
+                                <input type="text" class="form-control" asp-for="Mail">
+                            </div>
+                        </div>
+                        <div class="card-body">
+                            <div class="form-group">
+                                <label for="name">İletişim telefon</label>
+                                <input type="text" class="form-control" asp-for="Phone">
+                            </div>
+                        </div>
+                        <div class="card-action">
+                            <button type="submit" class="btn btn-primary">Güncelle</button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

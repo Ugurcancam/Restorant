@@ -9,3 +9,14 @@ D:\Projeler\Restorant\restorant.entity\obj\Debug\net7.0\restorant.entity.dll
 D:\Projeler\Restorant\restorant.entity\obj\Debug\net7.0\refint\restorant.entity.dll
 D:\Projeler\Restorant\restorant.entity\obj\Debug\net7.0\restorant.entity.pdb
 D:\Projeler\Restorant\restorant.entity\obj\Debug\net7.0\ref\restorant.entity.dll
+C:\Users\ugurc\OneDrive\Belgeler\GitHub\Restorant\restorant.entity\bin\Debug\net7.0\restorant.entity.deps.json
+C:\Users\ugurc\OneDrive\Belgeler\GitHub\Restorant\restorant.entity\bin\Debug\net7.0\restorant.entity.dll
+C:\Users\ugurc\OneDrive\Belgeler\GitHub\Restorant\restorant.entity\bin\Debug\net7.0\restorant.entity.pdb
+C:\Users\ugurc\OneDrive\Belgeler\GitHub\Restorant\restorant.entity\obj\Debug\net7.0\restorant.entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ugurc\OneDrive\Belgeler\GitHub\Restorant\restorant.entity\obj\Debug\net7.0\restorant.entity.AssemblyInfoInputs.cache
+C:\Users\ugurc\OneDrive\Belgeler\GitHub\Restorant\restorant.entity\obj\Debug\net7.0\restorant.entity.AssemblyInfo.cs
+C:\Users\ugurc\OneDrive\Belgeler\GitHub\Restorant\restorant.entity\obj\Debug\net7.0\restorant.entity.csproj.CoreCompileInputs.cache
+C:\Users\ugurc\OneDrive\Belgeler\GitHub\Restorant\restorant.entity\obj\Debug\net7.0\restorant.entity.dll
+C:\Users\ugurc\OneDrive\Belgeler\GitHub\Restorant\restorant.entity\obj\Debug\net7.0\refint\restorant.entity.dll
+C:\Users\ugurc\OneDrive\Belgeler\GitHub\Restorant\restorant.entity\obj\Debug\net7.0\restorant.entity.pdb
+C:\Users\ugurc\OneDrive\Belgeler\GitHub\Restorant\restorant.entity\obj\Debug\net7.0\ref\restorant.entity.dll

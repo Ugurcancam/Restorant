@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projeler\\Restorant\\restorant.entity\\restorant.entity.csproj",
+      "projectUniqueName": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.entity\\restorant.entity.csproj",
       "projectName": "restorant.entity",
-      "projectPath": "D:\\Projeler\\Restorant\\restorant.entity\\restorant.entity.csproj",
+      "projectPath": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.entity\\restorant.entity.csproj",
       "packagesPath": "C:\\Users\\ugurc\\.nuget\\packages\\",
-      "outputPath": "D:\\Projeler\\Restorant\\restorant.entity\\obj\\",
+      "outputPath": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.entity\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ugurc\\AppData\\Roaming\\NuGet\\NuGet.Config"

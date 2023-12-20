@@ -38,6 +38,11 @@ namespace restorant.business.Concrete
            return _productDal.GetById(id);
         }
 
+        public List<Product> GetProductsWithCategories()
+        {
+            return _productDal.GetProductsWithCategories();
+        }
+
         public void Update(Product entity)
         {
             _productDal.Update(entity);

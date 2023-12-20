@@ -3440,11 +3440,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projeler\\Restorant\\restorant.api\\restorant.api.csproj",
+      "projectUniqueName": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.api\\restorant.api.csproj",
       "projectName": "restorant.api",
-      "projectPath": "D:\\Projeler\\Restorant\\restorant.api\\restorant.api.csproj",
+      "projectPath": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.api\\restorant.api.csproj",
       "packagesPath": "C:\\Users\\ugurc\\.nuget\\packages\\",
-      "outputPath": "D:\\Projeler\\Restorant\\restorant.api\\obj\\",
+      "outputPath": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ugurc\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -3459,11 +3459,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\Projeler\\Restorant\\restorant.business\\restorant.business.csproj": {
-              "projectPath": "D:\\Projeler\\Restorant\\restorant.business\\restorant.business.csproj"
+            "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.business\\restorant.business.csproj": {
+              "projectPath": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.business\\restorant.business.csproj"
             },
-            "D:\\Projeler\\Restorant\\restorant.dto\\restorant.dto.csproj": {
-              "projectPath": "D:\\Projeler\\Restorant\\restorant.dto\\restorant.dto.csproj"
+            "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.dto\\restorant.dto.csproj": {
+              "projectPath": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.dto\\restorant.dto.csproj"
             }
           }
         }

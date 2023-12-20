@@ -8,6 +8,6 @@ namespace restorant.business.Abstract
 {
     public interface IProductService : IGenericService<Product>
     {
-        
+        List<Product> GetProductsWithCategories();
     }
 }

@@ -2907,11 +2907,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projeler\\Restorant\\restorant.data\\restorant.data.csproj",
+      "projectUniqueName": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.data\\restorant.data.csproj",
       "projectName": "restorant.data",
-      "projectPath": "D:\\Projeler\\Restorant\\restorant.data\\restorant.data.csproj",
+      "projectPath": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.data\\restorant.data.csproj",
       "packagesPath": "C:\\Users\\ugurc\\.nuget\\packages\\",
-      "outputPath": "D:\\Projeler\\Restorant\\restorant.data\\obj\\",
+      "outputPath": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ugurc\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -2926,8 +2926,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\Projeler\\Restorant\\restorant.entity\\restorant.entity.csproj": {
-              "projectPath": "D:\\Projeler\\Restorant\\restorant.entity\\restorant.entity.csproj"
+            "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.entity\\restorant.entity.csproj": {
+              "projectPath": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.entity\\restorant.entity.csproj"
             }
           }
         }

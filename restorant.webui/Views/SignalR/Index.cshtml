@@ -1,0 +1,27 @@
+@section Scripts {
+
+    <script src="~/lib/signalr/signalr.min.js"></script>
+    <div class="content">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col md 12">
+                    <div class="card">
+                        <script type="text/javascript">
+                            $(document).ready(() => {
+                                var connection = new signalR.HubConnectionBuilder().withUrl("http://localhost:5033/SignalRHub").build();
+                            })
+                            $("#connstatus").text(connection.state);
+                            connection.start().then(() => {
+                                $("#connstatus").text(connection.state);
+                            }).catch((err) => { console.log(err) });
+                        </script>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="alert alert-success"> Bağlantı durumu: <strong id="connstatus"></strong></div>
+    </div>
+}
