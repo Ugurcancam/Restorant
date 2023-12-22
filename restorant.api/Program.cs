@@ -10,16 +10,14 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddCors(opt =>
 {
-    opt.AddPolicy("CorsPolicy",
-    builder =>
+    opt.AddPolicy("CorsPolicy", builder =>
     {
         builder.AllowAnyHeader()
-      .AllowAnyMethod()
-      .SetIsOriginAllowed((host)=>true)
-      .AllowCredentials();
+        .AllowAnyMethod()
+        .SetIsOriginAllowed((host) => true)
+        .AllowCredentials();
     });
 });
-
 builder.Services.AddSignalR();
 
 // Add services to the container.

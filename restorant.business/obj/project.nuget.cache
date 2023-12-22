@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uMyeFNCQQn9HH0pMXbMLAjoTK5W93MJyGCibgqmLSA3/3T2a0gAEtpTsT/IvO5brvY60RPyJ8PJFH5KfFYmcuA==",
+  "dgSpecHash": "Q5hsQo/CScZO9VMRnR4ybcyCJsnWa3riEXw/c8lKhKwElZEv/S1bUBxiRc/l8Ez4R8rqJaQajwzuZfcq0foLTQ==",
   "success": true,
-  "projectFilePath": "D:\\Github\\Restorant\\restorant.business\\restorant.business.csproj",
+  "projectFilePath": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.business\\restorant.business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ugurc\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\ugurc\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

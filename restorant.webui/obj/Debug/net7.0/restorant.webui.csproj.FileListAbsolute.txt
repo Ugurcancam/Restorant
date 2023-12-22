@@ -42,3 +42,4 @@ C:\Users\ugurc\OneDrive\Belgeler\GitHub\Restorant\restorant.webui\bin\Debug\net7
 C:\Users\ugurc\OneDrive\Belgeler\GitHub\Restorant\restorant.webui\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
 C:\Users\ugurc\OneDrive\Belgeler\GitHub\Restorant\restorant.webui\bin\Debug\net7.0\package-lock.json
 C:\Users\ugurc\OneDrive\Belgeler\GitHub\Restorant\restorant.webui\bin\Debug\net7.0\package.json
+C:\Users\ugurc\OneDrive\Belgeler\GitHub\Restorant\restorant.webui\bin\Debug\net7.0\libman.json
