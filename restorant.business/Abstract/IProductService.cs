@@ -9,5 +9,8 @@ namespace restorant.business.Abstract
     public interface IProductService : IGenericService<Product>
     {
         List<Product> GetProductsWithCategories();
+        int ProductCount();
+        string ProductsByMaxPrice();
+        string ProductsByMinPrice();
     }
 }

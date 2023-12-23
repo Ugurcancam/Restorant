@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "izhEjqt6vI/L8zJY456DgddoiPvz1cf9d5uk2BwKDkKQ2i+H4pqC1oeyZY/dKgn9AHBlFKEBPNZftje8iDvK5w==",
+  "dgSpecHash": "spx5nuUk5IjGs3o2i+tl873IvHYpnMzcu9+zGF2dB2sgaj64Ii4cjZSthfiuvhZ2XCPlaLqHr0AZinlCIVB4TA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\restorant.webui.csproj",
+  "projectFilePath": "D:\\Github\\Restorant\\restorant.webui\\restorant.webui.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ugurc\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\7.0.4\\microsoft.aspnetcore.connections.abstractions.7.0.4.nupkg.sha512",
     "C:\\Users\\ugurc\\.nuget\\packages\\microsoft.aspnetcore.http.connections.client\\7.0.4\\microsoft.aspnetcore.http.connections.client.7.0.4.nupkg.sha512",

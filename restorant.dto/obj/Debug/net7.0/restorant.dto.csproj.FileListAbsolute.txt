@@ -20,3 +20,14 @@ C:\Users\ugurc\OneDrive\Belgeler\GitHub\Restorant\restorant.dto\obj\Debug\net7.0
 C:\Users\ugurc\OneDrive\Belgeler\GitHub\Restorant\restorant.dto\obj\Debug\net7.0\refint\restorant.dto.dll
 C:\Users\ugurc\OneDrive\Belgeler\GitHub\Restorant\restorant.dto\obj\Debug\net7.0\restorant.dto.pdb
 C:\Users\ugurc\OneDrive\Belgeler\GitHub\Restorant\restorant.dto\obj\Debug\net7.0\ref\restorant.dto.dll
+D:\Github\Restorant\restorant.dto\bin\Debug\net7.0\restorant.dto.deps.json
+D:\Github\Restorant\restorant.dto\bin\Debug\net7.0\restorant.dto.dll
+D:\Github\Restorant\restorant.dto\bin\Debug\net7.0\restorant.dto.pdb
+D:\Github\Restorant\restorant.dto\obj\Debug\net7.0\restorant.dto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\Restorant\restorant.dto\obj\Debug\net7.0\restorant.dto.AssemblyInfoInputs.cache
+D:\Github\Restorant\restorant.dto\obj\Debug\net7.0\restorant.dto.AssemblyInfo.cs
+D:\Github\Restorant\restorant.dto\obj\Debug\net7.0\restorant.dto.csproj.CoreCompileInputs.cache
+D:\Github\Restorant\restorant.dto\obj\Debug\net7.0\restorant.dto.dll
+D:\Github\Restorant\restorant.dto\obj\Debug\net7.0\refint\restorant.dto.dll
+D:\Github\Restorant\restorant.dto\obj\Debug\net7.0\restorant.dto.pdb
+D:\Github\Restorant\restorant.dto\obj\Debug\net7.0\ref\restorant.dto.dll

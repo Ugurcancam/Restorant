@@ -35,6 +35,11 @@ namespace restorant.api.Controllers
             var values = _productService.GetAll();
             return Ok(values);
         }
+        [HttpGet("GetProductCount")]
+        public IActionResult GetProductCount()
+        {
+            return Ok(_productService.ProductCount());
+        }
         [HttpPost]
         public IActionResult CreateProduct(CreateProductDto productDto)
         {

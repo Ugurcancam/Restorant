@@ -14,5 +14,6 @@ namespace restorant.entity
         public bool Status { get; set; }
         public int CategoryId { get; set; }
         public Category Category { get; set; }
+        public List<OrderDetail> OrderDetails { get; set; }
     }
 }

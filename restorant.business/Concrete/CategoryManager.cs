@@ -17,10 +17,20 @@ namespace restorant.business.Concrete
             _categoryDal = categoryDal;
         }
 
+        public int ActiveCategoryCount()
+        {
+            return _categoryDal.ActiveCategoryCount();
+        }
+
         public void Add(Category entity)
         {
             _categoryDal.Add(entity);
 
+        }
+
+        public int CategoryCount()
+        {
+            return _categoryDal.CategoryCount();
         }
 
         public void Delete(Category entity)
@@ -36,6 +46,11 @@ namespace restorant.business.Concrete
         public Category GetById(int id)
         {
            return _categoryDal.GetById(id);
+        }
+
+        public int PassiveCategoryCount()
+        {
+            return _categoryDal.PassiveCategoryCount();
         }
 
         public void Update(Category entity)

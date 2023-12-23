@@ -29,6 +29,21 @@ namespace restorant.api.Controllers
             var values = _categoryService.GetAll();
             return Ok(values);
         }
+        [HttpGet("GetCategoryCount")]
+        public IActionResult GetCategoryCount()
+        {
+            return Ok(_categoryService.CategoryCount());
+        }
+        [HttpGet("ActiveCategoryCount")]
+        public IActionResult ActiveCategoryCount()
+        {
+            return Ok(_categoryService.ActiveCategoryCount());
+        }
+        [HttpGet("PassiveCategoryCount")]
+        public IActionResult PassiveCategoryCount()
+        {
+            return Ok(_categoryService.PassiveCategoryCount());
+        }
         [HttpPost]
         public IActionResult CreateCategory(CreateCategoryDto categoryDto)
         {

@@ -19,8 +19,26 @@ namespace restorant.data.EntityFramework
         public List<Product> GetProductsWithCategories()
         {
             var context = new RestorantContext();
-            var values = context.Products.Include(product => product.Category).ToList();
-            return values;
+            return context.Products.Include(product => product.Category).ToList();
+        }
+
+        public int ProductCount()
+        {
+            using var context = new RestorantContext();
+            return context.Products.Count();
+        }
+
+        public string ProductsByMaxPrice()
+        {
+            using var context = new RestorantContext();
+            return context.Products.Where(x=> x.Price == (context.Products.Max(y=> y.Price))).Select(z=>z.Name).FirstOrDefault();
+
+        }
+
+        public string ProductsByMinPrice()
+        {
+            using var context = new RestorantContext();
+             return context.Products.Where(x=> x.Price == (context.Products.Min(y=> y.Price))).Select(z=>z.Name).FirstOrDefault();
         }
     }
 }

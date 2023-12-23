@@ -25,7 +25,7 @@ namespace restorant.business.Concrete
 
         public void Delete(Product entity)
         {
-           _productDal.Delete(entity);
+            _productDal.Delete(entity);
         }
 
         public List<Product> GetAll()
@@ -35,12 +35,28 @@ namespace restorant.business.Concrete
 
         public Product GetById(int id)
         {
-           return _productDal.GetById(id);
+            return _productDal.GetById(id);
         }
 
         public List<Product> GetProductsWithCategories()
         {
             return _productDal.GetProductsWithCategories();
+        }
+
+        public int ProductCount()
+        {
+            return _productDal.ProductCount();
+        }
+
+        public string ProductsByMaxPrice()
+        {
+            return _productDal.ProductsByMaxPrice();
+        }
+
+        public string ProductsByMinPrice()
+        {
+            return _productDal.ProductsByMinPrice();
+
         }
 
         public void Update(Product entity)

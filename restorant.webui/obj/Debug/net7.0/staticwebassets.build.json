@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "XhhwxE5sQ7Xk8cXRoPgj8keOTYRvLCa/4SF5GCnM0z4=",
+  "Hash": "01IBAdSCqvsCIYwzKkgBSm99XCxaumn0XJvyggV6FIA=",
   "Source": "restorant.webui",
   "BasePath": "_content/restorant.webui",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "restorant.webui\\wwwroot",
       "Source": "restorant.webui",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\obj\\Debug\\net7.0\\scopedcss\\bundle\\restorant.webui.styles.css",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\obj\\Debug\\net7.0\\scopedcss\\bundle\\restorant.webui.styles.css",
       "SourceId": "restorant.webui",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "restorant.webui.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\obj\\Debug\\net7.0\\scopedcss\\bundle\\restorant.webui.styles.css"
+      "OriginalItemSpec": "D:\\Github\\Restorant\\restorant.webui\\obj\\Debug\\net7.0\\scopedcss\\bundle\\restorant.webui.styles.css"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\restorant.webui.bundle.scp.css",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\restorant.webui.bundle.scp.css",
       "SourceId": "restorant.webui",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "restorant.webui.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\restorant.webui.bundle.scp.css"
+      "OriginalItemSpec": "D:\\Github\\Restorant\\restorant.webui\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\restorant.webui.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\.DS_Store",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\.DS_Store",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "admintemplate/.DS_Store",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\admintemplate\\.DS_Store"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\css\\bootstrap.min.css",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\css\\bootstrap.min.css",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "admintemplate/assets/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\admintemplate\\assets\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\css\\demo.css",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\css\\demo.css",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "admintemplate/assets/css/demo.css",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\admintemplate\\assets\\css\\demo.css"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\css\\ready.css",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\css\\ready.css",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "admintemplate/assets/css/ready.css",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\admintemplate\\assets\\css\\ready.css"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\css\\ready.css.map",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\css\\ready.css.map",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "admintemplate/assets/css/ready.css.map",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\admintemplate\\assets\\css\\ready.css.map"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\css\\ready.min.css",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\css\\ready.min.css",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "admintemplate/assets/css/ready.min.css",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\admintemplate\\assets\\css\\ready.min.css"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\fonts\\line-awesome.eot",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\fonts\\line-awesome.eot",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "admintemplate/assets/fonts/line-awesome.eot",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\admintemplate\\assets\\fonts\\line-awesome.eot"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\fonts\\line-awesome.svg",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\fonts\\line-awesome.svg",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "admintemplate/assets/fonts/line-awesome.svg",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\admintemplate\\assets\\fonts\\line-awesome.svg"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\fonts\\line-awesome.ttf",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\fonts\\line-awesome.ttf",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "admintemplate/assets/fonts/line-awesome.ttf",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\admintemplate\\assets\\fonts\\line-awesome.ttf"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\fonts\\line-awesome.woff",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\fonts\\line-awesome.woff",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "admintemplate/assets/fonts/line-awesome.woff",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\admintemplate\\assets\\fonts\\line-awesome.woff"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\fonts\\line-awesome.woff2",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\fonts\\line-awesome.woff2",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "admintemplate/assets/fonts/line-awesome.woff2",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\admintemplate\\assets\\fonts\\line-awesome.woff2"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\img\\menu.png",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\img\\menu.png",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "admintemplate/assets/img/menu.png",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\admintemplate\\assets\\img\\menu.png"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\img\\menu2.png",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\img\\menu2.png",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "admintemplate/assets/img/menu2.png",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\admintemplate\\assets\\img\\menu2.png"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\img\\profile.jpg",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\img\\profile.jpg",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "admintemplate/assets/img/profile.jpg",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\admintemplate\\assets\\img\\profile.jpg"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\img\\profile2.jpg",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\img\\profile2.jpg",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "admintemplate/assets/img/profile2.jpg",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\admintemplate\\assets\\img\\profile2.jpg"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\js\\core\\bootstrap.min.js",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\js\\core\\bootstrap.min.js",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "admintemplate/assets/js/core/bootstrap.min.js",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\admintemplate\\assets\\js\\core\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\js\\core\\jquery.3.2.1.min.js",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\js\\core\\jquery.3.2.1.min.js",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "admintemplate/assets/js/core/jquery.3.2.1.min.js",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\admintemplate\\assets\\js\\core\\jquery.3.2.1.min.js"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\js\\core\\popper.min.js",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\js\\core\\popper.min.js",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "admintemplate/assets/js/core/popper.min.js",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\admintemplate\\assets\\js\\core\\popper.min.js"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\js\\demo.js",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\js\\demo.js",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "admintemplate/assets/js/demo.js",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\admintemplate\\assets\\js\\demo.js"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\js\\plugin\\bootstrap-notify\\bootstrap-notify.min.js",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\js\\plugin\\bootstrap-notify\\bootstrap-notify.min.js",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "admintemplate/assets/js/plugin/bootstrap-notify/bootstrap-notify.min.js",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\admintemplate\\assets\\js\\plugin\\bootstrap-notify\\bootstrap-notify.min.js"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\js\\plugin\\bootstrap-toggle\\bootstrap-toggle.min.js",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\js\\plugin\\bootstrap-toggle\\bootstrap-toggle.min.js",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "admintemplate/assets/js/plugin/bootstrap-toggle/bootstrap-toggle.min.js",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\admintemplate\\assets\\js\\plugin\\bootstrap-toggle\\bootstrap-toggle.min.js"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\js\\plugin\\chart-circle\\circles.min.js",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\js\\plugin\\chart-circle\\circles.min.js",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "admintemplate/assets/js/plugin/chart-circle/circles.min.js",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\admintemplate\\assets\\js\\plugin\\chart-circle\\circles.min.js"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\js\\plugin\\chartist\\chartist.min.js",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\js\\plugin\\chartist\\chartist.min.js",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "admintemplate/assets/js/plugin/chartist/chartist.min.js",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\admintemplate\\assets\\js\\plugin\\chartist\\chartist.min.js"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\js\\plugin\\chartist\\plugin\\chartist-plugin-tooltip.min.js",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\js\\plugin\\chartist\\plugin\\chartist-plugin-tooltip.min.js",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "admintemplate/assets/js/plugin/chartist/plugin/chartist-plugin-tooltip.min.js",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\admintemplate\\assets\\js\\plugin\\chartist\\plugin\\chartist-plugin-tooltip.min.js"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\js\\plugin\\jquery-mapael\\jquery.mapael.min.js",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\js\\plugin\\jquery-mapael\\jquery.mapael.min.js",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "admintemplate/assets/js/plugin/jquery-mapael/jquery.mapael.min.js",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\admintemplate\\assets\\js\\plugin\\jquery-mapael\\jquery.mapael.min.js"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\js\\plugin\\jquery-mapael\\maps\\france_departments.js",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\js\\plugin\\jquery-mapael\\maps\\france_departments.js",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "admintemplate/assets/js/plugin/jquery-mapael/maps/france_departments.js",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\admintemplate\\assets\\js\\plugin\\jquery-mapael\\maps\\france_departments.js"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\js\\plugin\\jquery-mapael\\maps\\france_departments.min.js",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\js\\plugin\\jquery-mapael\\maps\\france_departments.min.js",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "admintemplate/assets/js/plugin/jquery-mapael/maps/france_departments.min.js",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\admintemplate\\assets\\js\\plugin\\jquery-mapael\\maps\\france_departments.min.js"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\js\\plugin\\jquery-mapael\\maps\\README.txt",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\js\\plugin\\jquery-mapael\\maps\\README.txt",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "admintemplate/assets/js/plugin/jquery-mapael/maps/README.txt",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\admintemplate\\assets\\js\\plugin\\jquery-mapael\\maps\\README.txt"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\js\\plugin\\jquery-mapael\\maps\\usa_states.js",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\js\\plugin\\jquery-mapael\\maps\\usa_states.js",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "admintemplate/assets/js/plugin/jquery-mapael/maps/usa_states.js",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\admintemplate\\assets\\js\\plugin\\jquery-mapael\\maps\\usa_states.js"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\js\\plugin\\jquery-mapael\\maps\\usa_states.min.js",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\js\\plugin\\jquery-mapael\\maps\\usa_states.min.js",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "admintemplate/assets/js/plugin/jquery-mapael/maps/usa_states.min.js",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\admintemplate\\assets\\js\\plugin\\jquery-mapael\\maps\\usa_states.min.js"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\js\\plugin\\jquery-mapael\\maps\\world_countries_mercator.js",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\js\\plugin\\jquery-mapael\\maps\\world_countries_mercator.js",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "admintemplate/assets/js/plugin/jquery-mapael/maps/world_countries_mercator.js",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\admintemplate\\assets\\js\\plugin\\jquery-mapael\\maps\\world_countries_mercator.js"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\js\\plugin\\jquery-mapael\\maps\\world_countries_mercator.min.js",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\js\\plugin\\jquery-mapael\\maps\\world_countries_mercator.min.js",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "admintemplate/assets/js/plugin/jquery-mapael/maps/world_countries_mercator.min.js",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\admintemplate\\assets\\js\\plugin\\jquery-mapael\\maps\\world_countries_mercator.min.js"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\js\\plugin\\jquery-mapael\\maps\\world_countries_miller.js",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\js\\plugin\\jquery-mapael\\maps\\world_countries_miller.js",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "admintemplate/assets/js/plugin/jquery-mapael/maps/world_countries_miller.js",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\admintemplate\\assets\\js\\plugin\\jquery-mapael\\maps\\world_countries_miller.js"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\js\\plugin\\jquery-mapael\\maps\\world_countries_miller.min.js",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\js\\plugin\\jquery-mapael\\maps\\world_countries_miller.min.js",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "admintemplate/assets/js/plugin/jquery-mapael/maps/world_countries_miller.min.js",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\admintemplate\\assets\\js\\plugin\\jquery-mapael\\maps\\world_countries_miller.min.js"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\js\\plugin\\jquery-mapael\\maps\\world_countries.js",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\js\\plugin\\jquery-mapael\\maps\\world_countries.js",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "admintemplate/assets/js/plugin/jquery-mapael/maps/world_countries.js",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\admintemplate\\assets\\js\\plugin\\jquery-mapael\\maps\\world_countries.js"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\js\\plugin\\jquery-mapael\\maps\\world_countries.min.js",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\js\\plugin\\jquery-mapael\\maps\\world_countries.min.js",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "admintemplate/assets/js/plugin/jquery-mapael/maps/world_countries.min.js",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\admintemplate\\assets\\js\\plugin\\jquery-mapael\\maps\\world_countries.min.js"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\js\\plugin\\jquery-scrollbar\\jquery.scrollbar.min.js",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\js\\plugin\\jquery-scrollbar\\jquery.scrollbar.min.js",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "admintemplate/assets/js/plugin/jquery-scrollbar/jquery.scrollbar.min.js",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\admintemplate\\assets\\js\\plugin\\jquery-scrollbar\\jquery.scrollbar.min.js"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\js\\plugin\\jquery-ui-1.12.1.custom\\jquery-ui.min.js",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\js\\plugin\\jquery-ui-1.12.1.custom\\jquery-ui.min.js",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "admintemplate/assets/js/plugin/jquery-ui-1.12.1.custom/jquery-ui.min.js",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\admintemplate\\assets\\js\\plugin\\jquery-ui-1.12.1.custom\\jquery-ui.min.js"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\js\\ready.js",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\js\\ready.js",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "admintemplate/assets/js/ready.js",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\admintemplate\\assets\\js\\ready.js"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\js\\ready.min.js",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\js\\ready.min.js",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "admintemplate/assets/js/ready.min.js",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\admintemplate\\assets\\js\\ready.min.js"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\sass\\ready.scss",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\sass\\ready.scss",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "admintemplate/assets/sass/ready.scss",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\admintemplate\\assets\\sass\\ready.scss"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\sass\\ready\\_background.scss",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\sass\\ready\\_background.scss",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "admintemplate/assets/sass/ready/_background.scss",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\admintemplate\\assets\\sass\\ready\\_background.scss"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\sass\\ready\\_components.scss",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\sass\\ready\\_components.scss",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "admintemplate/assets/sass/ready/_components.scss",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\admintemplate\\assets\\sass\\ready\\_components.scss"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\sass\\ready\\_layouts.scss",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\sass\\ready\\_layouts.scss",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "admintemplate/assets/sass/ready/_layouts.scss",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\admintemplate\\assets\\sass\\ready\\_layouts.scss"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\sass\\ready\\_line-awesome.scss",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\sass\\ready\\_line-awesome.scss",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "admintemplate/assets/sass/ready/_line-awesome.scss",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\admintemplate\\assets\\sass\\ready\\_line-awesome.scss"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\sass\\ready\\_outlinefocus.scss",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\sass\\ready\\_outlinefocus.scss",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "admintemplate/assets/sass/ready/_outlinefocus.scss",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\admintemplate\\assets\\sass\\ready\\_outlinefocus.scss"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\sass\\ready\\_plugins.scss",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\sass\\ready\\_plugins.scss",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "admintemplate/assets/sass/ready/_plugins.scss",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\admintemplate\\assets\\sass\\ready\\_plugins.scss"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\sass\\ready\\_responsive.scss",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\sass\\ready\\_responsive.scss",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "admintemplate/assets/sass/ready/_responsive.scss",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\admintemplate\\assets\\sass\\ready\\_responsive.scss"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\sass\\ready\\_typography.scss",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\sass\\ready\\_typography.scss",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "admintemplate/assets/sass/ready/_typography.scss",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\admintemplate\\assets\\sass\\ready\\_typography.scss"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\sass\\ready\\_variables.scss",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\sass\\ready\\_variables.scss",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "admintemplate/assets/sass/ready/_variables.scss",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\admintemplate\\assets\\sass\\ready\\_variables.scss"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\sass\\ready\\components\\_alerts.scss",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\sass\\ready\\components\\_alerts.scss",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "admintemplate/assets/sass/ready/components/_alerts.scss",
       "AssetKind": "All",
@@ -918,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\admintemplate\\assets\\sass\\ready\\components\\_alerts.scss"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\sass\\ready\\components\\_badges.scss",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\sass\\ready\\components\\_badges.scss",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "admintemplate/assets/sass/ready/components/_badges.scss",
       "AssetKind": "All",
@@ -935,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\admintemplate\\assets\\sass\\ready\\components\\_badges.scss"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\sass\\ready\\components\\_buttons.scss",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\sass\\ready\\components\\_buttons.scss",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "admintemplate/assets/sass/ready/components/_buttons.scss",
       "AssetKind": "All",
@@ -952,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\admintemplate\\assets\\sass\\ready\\components\\_buttons.scss"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\sass\\ready\\components\\_cards.scss",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\sass\\ready\\components\\_cards.scss",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "admintemplate/assets/sass/ready/components/_cards.scss",
       "AssetKind": "All",
@@ -969,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\admintemplate\\assets\\sass\\ready\\components\\_cards.scss"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\sass\\ready\\components\\_charts.scss",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\sass\\ready\\components\\_charts.scss",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "admintemplate/assets/sass/ready/components/_charts.scss",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\admintemplate\\assets\\sass\\ready\\components\\_charts.scss"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\sass\\ready\\components\\_dropdowns.scss",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\sass\\ready\\components\\_dropdowns.scss",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "admintemplate/assets/sass/ready/components/_dropdowns.scss",
       "AssetKind": "All",
@@ -1003,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\admintemplate\\assets\\sass\\ready\\components\\_dropdowns.scss"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\sass\\ready\\components\\_inputs.scss",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\sass\\ready\\components\\_inputs.scss",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "admintemplate/assets/sass/ready/components/_inputs.scss",
       "AssetKind": "All",
@@ -1020,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\admintemplate\\assets\\sass\\ready\\components\\_inputs.scss"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\sass\\ready\\components\\_maps.scss",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\sass\\ready\\components\\_maps.scss",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "admintemplate/assets/sass/ready/components/_maps.scss",
       "AssetKind": "All",
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\admintemplate\\assets\\sass\\ready\\components\\_maps.scss"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\sass\\ready\\components\\_modals.scss",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\sass\\ready\\components\\_modals.scss",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "admintemplate/assets/sass/ready/components/_modals.scss",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\admintemplate\\assets\\sass\\ready\\components\\_modals.scss"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\sass\\ready\\components\\_navbars.scss",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\sass\\ready\\components\\_navbars.scss",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "admintemplate/assets/sass/ready/components/_navbars.scss",
       "AssetKind": "All",
@@ -1071,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\admintemplate\\assets\\sass\\ready\\components\\_navbars.scss"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\sass\\ready\\components\\_navpills.scss",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\sass\\ready\\components\\_navpills.scss",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "admintemplate/assets/sass/ready/components/_navpills.scss",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\admintemplate\\assets\\sass\\ready\\components\\_navpills.scss"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\sass\\ready\\components\\_navsearch.scss",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\sass\\ready\\components\\_navsearch.scss",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "admintemplate/assets/sass/ready/components/_navsearch.scss",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\admintemplate\\assets\\sass\\ready\\components\\_navsearch.scss"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\sass\\ready\\components\\_paginations.scss",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\sass\\ready\\components\\_paginations.scss",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "admintemplate/assets/sass/ready/components/_paginations.scss",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\admintemplate\\assets\\sass\\ready\\components\\_paginations.scss"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\sass\\ready\\components\\_sliders.scss",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\sass\\ready\\components\\_sliders.scss",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "admintemplate/assets/sass/ready/components/_sliders.scss",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\admintemplate\\assets\\sass\\ready\\components\\_sliders.scss"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\sass\\ready\\components\\_tables.scss",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\sass\\ready\\components\\_tables.scss",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "admintemplate/assets/sass/ready/components/_tables.scss",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\admintemplate\\assets\\sass\\ready\\components\\_tables.scss"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\sass\\ready\\plugins\\_chartist.scss",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\sass\\ready\\plugins\\_chartist.scss",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "admintemplate/assets/sass/ready/plugins/_chartist.scss",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\admintemplate\\assets\\sass\\ready\\plugins\\_chartist.scss"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\sass\\ready\\plugins\\_jqueryscrollbar.scss",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\sass\\ready\\plugins\\_jqueryscrollbar.scss",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "admintemplate/assets/sass/ready/plugins/_jqueryscrollbar.scss",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\admintemplate\\assets\\sass\\ready\\plugins\\_jqueryscrollbar.scss"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\sass\\ready\\plugins\\_jqueryui.scss",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\sass\\ready\\plugins\\_jqueryui.scss",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "admintemplate/assets/sass/ready/plugins/_jqueryui.scss",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\admintemplate\\assets\\sass\\ready\\plugins\\_jqueryui.scss"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\sass\\ready\\plugins\\_toggle.scss",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\assets\\sass\\ready\\plugins\\_toggle.scss",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "admintemplate/assets/sass/ready/plugins/_toggle.scss",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\admintemplate\\assets\\sass\\ready\\plugins\\_toggle.scss"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\components.html",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\components.html",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "admintemplate/components.html",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\admintemplate\\components.html"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\forms.html",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\forms.html",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "admintemplate/forms.html",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\admintemplate\\forms.html"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\icons.html",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\icons.html",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "admintemplate/icons.html",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\admintemplate\\icons.html"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\index.html",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\index.html",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "admintemplate/index.html",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\admintemplate\\index.html"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\LICENSE",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\LICENSE",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "admintemplate/LICENSE",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\admintemplate\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\notifications.html",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\notifications.html",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "admintemplate/notifications.html",
       "AssetKind": "All",
@@ -1326,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\admintemplate\\notifications.html"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\README.md",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\README.md",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "admintemplate/README.md",
       "AssetKind": "All",
@@ -1343,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\admintemplate\\README.md"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\tables.html",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\tables.html",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "admintemplate/tables.html",
       "AssetKind": "All",
@@ -1360,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\admintemplate\\tables.html"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\typography.html",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\admintemplate\\typography.html",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "admintemplate/typography.html",
       "AssetKind": "All",
@@ -1377,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\admintemplate\\typography.html"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\css\\site.css",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\css\\site.css",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -1394,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\favicon.ico",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\favicon.ico",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -1411,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\js\\site.js",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\js\\site.js",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -1428,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -1462,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -1479,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -1496,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -1513,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -1530,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -1547,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -1564,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -1581,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -1598,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -1615,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -1649,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -1666,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -1683,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -1700,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -1717,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -1734,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -1751,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -1768,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -1785,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -1802,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1819,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1836,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -1853,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1870,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1887,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1904,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -1921,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -1938,10 +1938,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1972,10 +1972,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1989,10 +1989,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -2006,10 +2006,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -2023,10 +2023,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -2040,10 +2040,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -2057,10 +2057,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -2074,10 +2074,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -2091,10 +2091,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -2108,10 +2108,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -2125,10 +2125,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -2142,10 +2142,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -2159,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -2176,10 +2176,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -2193,10 +2193,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -2210,10 +2210,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -2227,10 +2227,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -2244,10 +2244,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -2261,10 +2261,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -2295,10 +2295,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -2312,10 +2312,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -2329,10 +2329,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -2346,10 +2346,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -2363,10 +2363,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -2380,10 +2380,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -2397,10 +2397,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\lib\\microsoft\\signalr\\dist\\browser\\signalr.js",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\lib\\microsoft\\signalr\\dist\\browser\\signalr.js",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "lib/microsoft/signalr/dist/browser/signalr.js",
       "AssetKind": "All",
@@ -2414,10 +2414,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\microsoft\\signalr\\dist\\browser\\signalr.js"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\lib\\microsoft\\signalr\\dist\\browser\\signalr.js.map",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\lib\\microsoft\\signalr\\dist\\browser\\signalr.js.map",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "lib/microsoft/signalr/dist/browser/signalr.js.map",
       "AssetKind": "All",
@@ -2431,10 +2431,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\microsoft\\signalr\\dist\\browser\\signalr.js.map"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\lib\\microsoft\\signalr\\dist\\browser\\signalr.min.js",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\lib\\microsoft\\signalr\\dist\\browser\\signalr.min.js",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "lib/microsoft/signalr/dist/browser/signalr.min.js",
       "AssetKind": "All",
@@ -2448,10 +2448,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\microsoft\\signalr\\dist\\browser\\signalr.min.js"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\lib\\microsoft\\signalr\\dist\\browser\\signalr.min.js.map",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\lib\\microsoft\\signalr\\dist\\browser\\signalr.min.js.map",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "lib/microsoft/signalr/dist/browser/signalr.min.js.map",
       "AssetKind": "All",
@@ -2465,10 +2465,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\microsoft\\signalr\\dist\\browser\\signalr.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\lib\\microsoft\\signalr\\package.json",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\lib\\microsoft\\signalr\\package.json",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "lib/microsoft/signalr/package.json",
       "AssetKind": "All",
@@ -2482,10 +2482,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\microsoft\\signalr\\package.json"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\lib\\microsoft\\signalr\\README.md",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\lib\\microsoft\\signalr\\README.md",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "lib/microsoft/signalr/README.md",
       "AssetKind": "All",
@@ -2499,10 +2499,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\microsoft\\signalr\\README.md"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\lib\\microsoft\\signalr\\src\\AbortController.ts",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\lib\\microsoft\\signalr\\src\\AbortController.ts",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "lib/microsoft/signalr/src/AbortController.ts",
       "AssetKind": "All",
@@ -2516,10 +2516,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\microsoft\\signalr\\src\\AbortController.ts"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\lib\\microsoft\\signalr\\src\\AccessTokenHttpClient.ts",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\lib\\microsoft\\signalr\\src\\AccessTokenHttpClient.ts",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "lib/microsoft/signalr/src/AccessTokenHttpClient.ts",
       "AssetKind": "All",
@@ -2533,10 +2533,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\microsoft\\signalr\\src\\AccessTokenHttpClient.ts"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\lib\\microsoft\\signalr\\src\\browser-index.ts",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\lib\\microsoft\\signalr\\src\\browser-index.ts",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "lib/microsoft/signalr/src/browser-index.ts",
       "AssetKind": "All",
@@ -2550,10 +2550,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\microsoft\\signalr\\src\\browser-index.ts"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\lib\\microsoft\\signalr\\src\\DefaultHttpClient.ts",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\lib\\microsoft\\signalr\\src\\DefaultHttpClient.ts",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "lib/microsoft/signalr/src/DefaultHttpClient.ts",
       "AssetKind": "All",
@@ -2567,10 +2567,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\microsoft\\signalr\\src\\DefaultHttpClient.ts"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\lib\\microsoft\\signalr\\src\\DefaultReconnectPolicy.ts",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\lib\\microsoft\\signalr\\src\\DefaultReconnectPolicy.ts",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "lib/microsoft/signalr/src/DefaultReconnectPolicy.ts",
       "AssetKind": "All",
@@ -2584,10 +2584,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\microsoft\\signalr\\src\\DefaultReconnectPolicy.ts"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\lib\\microsoft\\signalr\\src\\Errors.ts",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\lib\\microsoft\\signalr\\src\\Errors.ts",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "lib/microsoft/signalr/src/Errors.ts",
       "AssetKind": "All",
@@ -2601,10 +2601,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\microsoft\\signalr\\src\\Errors.ts"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\lib\\microsoft\\signalr\\src\\FetchHttpClient.ts",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\lib\\microsoft\\signalr\\src\\FetchHttpClient.ts",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "lib/microsoft/signalr/src/FetchHttpClient.ts",
       "AssetKind": "All",
@@ -2618,10 +2618,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\microsoft\\signalr\\src\\FetchHttpClient.ts"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\lib\\microsoft\\signalr\\src\\HandshakeProtocol.ts",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\lib\\microsoft\\signalr\\src\\HandshakeProtocol.ts",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "lib/microsoft/signalr/src/HandshakeProtocol.ts",
       "AssetKind": "All",
@@ -2635,10 +2635,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\microsoft\\signalr\\src\\HandshakeProtocol.ts"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\lib\\microsoft\\signalr\\src\\HeaderNames.ts",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\lib\\microsoft\\signalr\\src\\HeaderNames.ts",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "lib/microsoft/signalr/src/HeaderNames.ts",
       "AssetKind": "All",
@@ -2652,10 +2652,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\microsoft\\signalr\\src\\HeaderNames.ts"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\lib\\microsoft\\signalr\\src\\HttpClient.ts",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\lib\\microsoft\\signalr\\src\\HttpClient.ts",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "lib/microsoft/signalr/src/HttpClient.ts",
       "AssetKind": "All",
@@ -2669,10 +2669,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\microsoft\\signalr\\src\\HttpClient.ts"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\lib\\microsoft\\signalr\\src\\HttpConnection.ts",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\lib\\microsoft\\signalr\\src\\HttpConnection.ts",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "lib/microsoft/signalr/src/HttpConnection.ts",
       "AssetKind": "All",
@@ -2686,10 +2686,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\microsoft\\signalr\\src\\HttpConnection.ts"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\lib\\microsoft\\signalr\\src\\HubConnection.ts",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\lib\\microsoft\\signalr\\src\\HubConnection.ts",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "lib/microsoft/signalr/src/HubConnection.ts",
       "AssetKind": "All",
@@ -2703,10 +2703,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\microsoft\\signalr\\src\\HubConnection.ts"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\lib\\microsoft\\signalr\\src\\HubConnectionBuilder.ts",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\lib\\microsoft\\signalr\\src\\HubConnectionBuilder.ts",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "lib/microsoft/signalr/src/HubConnectionBuilder.ts",
       "AssetKind": "All",
@@ -2720,10 +2720,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\microsoft\\signalr\\src\\HubConnectionBuilder.ts"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\lib\\microsoft\\signalr\\src\\IConnection.ts",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\lib\\microsoft\\signalr\\src\\IConnection.ts",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "lib/microsoft/signalr/src/IConnection.ts",
       "AssetKind": "All",
@@ -2737,10 +2737,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\microsoft\\signalr\\src\\IConnection.ts"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\lib\\microsoft\\signalr\\src\\IHttpConnectionOptions.ts",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\lib\\microsoft\\signalr\\src\\IHttpConnectionOptions.ts",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "lib/microsoft/signalr/src/IHttpConnectionOptions.ts",
       "AssetKind": "All",
@@ -2754,10 +2754,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\microsoft\\signalr\\src\\IHttpConnectionOptions.ts"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\lib\\microsoft\\signalr\\src\\IHubProtocol.ts",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\lib\\microsoft\\signalr\\src\\IHubProtocol.ts",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "lib/microsoft/signalr/src/IHubProtocol.ts",
       "AssetKind": "All",
@@ -2771,10 +2771,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\microsoft\\signalr\\src\\IHubProtocol.ts"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\lib\\microsoft\\signalr\\src\\ILogger.ts",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\lib\\microsoft\\signalr\\src\\ILogger.ts",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "lib/microsoft/signalr/src/ILogger.ts",
       "AssetKind": "All",
@@ -2788,10 +2788,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\microsoft\\signalr\\src\\ILogger.ts"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\lib\\microsoft\\signalr\\src\\IRetryPolicy.ts",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\lib\\microsoft\\signalr\\src\\IRetryPolicy.ts",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "lib/microsoft/signalr/src/IRetryPolicy.ts",
       "AssetKind": "All",
@@ -2805,10 +2805,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\microsoft\\signalr\\src\\IRetryPolicy.ts"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\lib\\microsoft\\signalr\\src\\ITransport.ts",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\lib\\microsoft\\signalr\\src\\ITransport.ts",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "lib/microsoft/signalr/src/ITransport.ts",
       "AssetKind": "All",
@@ -2822,10 +2822,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\microsoft\\signalr\\src\\ITransport.ts"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\lib\\microsoft\\signalr\\src\\index.ts",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\lib\\microsoft\\signalr\\src\\index.ts",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "lib/microsoft/signalr/src/index.ts",
       "AssetKind": "All",
@@ -2839,10 +2839,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\microsoft\\signalr\\src\\index.ts"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\lib\\microsoft\\signalr\\src\\JsonHubProtocol.ts",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\lib\\microsoft\\signalr\\src\\JsonHubProtocol.ts",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "lib/microsoft/signalr/src/JsonHubProtocol.ts",
       "AssetKind": "All",
@@ -2856,10 +2856,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\microsoft\\signalr\\src\\JsonHubProtocol.ts"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\lib\\microsoft\\signalr\\src\\Loggers.ts",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\lib\\microsoft\\signalr\\src\\Loggers.ts",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "lib/microsoft/signalr/src/Loggers.ts",
       "AssetKind": "All",
@@ -2873,10 +2873,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\microsoft\\signalr\\src\\Loggers.ts"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\lib\\microsoft\\signalr\\src\\LongPollingTransport.ts",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\lib\\microsoft\\signalr\\src\\LongPollingTransport.ts",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "lib/microsoft/signalr/src/LongPollingTransport.ts",
       "AssetKind": "All",
@@ -2890,10 +2890,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\microsoft\\signalr\\src\\LongPollingTransport.ts"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\lib\\microsoft\\signalr\\src\\Polyfills.ts",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\lib\\microsoft\\signalr\\src\\Polyfills.ts",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "lib/microsoft/signalr/src/Polyfills.ts",
       "AssetKind": "All",
@@ -2907,10 +2907,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\microsoft\\signalr\\src\\Polyfills.ts"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\lib\\microsoft\\signalr\\src\\ServerSentEventsTransport.ts",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\lib\\microsoft\\signalr\\src\\ServerSentEventsTransport.ts",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "lib/microsoft/signalr/src/ServerSentEventsTransport.ts",
       "AssetKind": "All",
@@ -2924,10 +2924,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\microsoft\\signalr\\src\\ServerSentEventsTransport.ts"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\lib\\microsoft\\signalr\\src\\Stream.ts",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\lib\\microsoft\\signalr\\src\\Stream.ts",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "lib/microsoft/signalr/src/Stream.ts",
       "AssetKind": "All",
@@ -2941,10 +2941,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\microsoft\\signalr\\src\\Stream.ts"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\lib\\microsoft\\signalr\\src\\Subject.ts",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\lib\\microsoft\\signalr\\src\\Subject.ts",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "lib/microsoft/signalr/src/Subject.ts",
       "AssetKind": "All",
@@ -2958,10 +2958,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\microsoft\\signalr\\src\\Subject.ts"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\lib\\microsoft\\signalr\\src\\TextMessageFormat.ts",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\lib\\microsoft\\signalr\\src\\TextMessageFormat.ts",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "lib/microsoft/signalr/src/TextMessageFormat.ts",
       "AssetKind": "All",
@@ -2975,10 +2975,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\microsoft\\signalr\\src\\TextMessageFormat.ts"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\lib\\microsoft\\signalr\\src\\third-party-notices.txt",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\lib\\microsoft\\signalr\\src\\third-party-notices.txt",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "lib/microsoft/signalr/src/third-party-notices.txt",
       "AssetKind": "All",
@@ -2992,10 +2992,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\microsoft\\signalr\\src\\third-party-notices.txt"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\lib\\microsoft\\signalr\\src\\Utils.ts",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\lib\\microsoft\\signalr\\src\\Utils.ts",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "lib/microsoft/signalr/src/Utils.ts",
       "AssetKind": "All",
@@ -3009,10 +3009,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\microsoft\\signalr\\src\\Utils.ts"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\lib\\microsoft\\signalr\\src\\WebSocketTransport.ts",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\lib\\microsoft\\signalr\\src\\WebSocketTransport.ts",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "lib/microsoft/signalr/src/WebSocketTransport.ts",
       "AssetKind": "All",
@@ -3026,10 +3026,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\microsoft\\signalr\\src\\WebSocketTransport.ts"
     },
     {
-      "Identity": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\lib\\microsoft\\signalr\\src\\XhrHttpClient.ts",
+      "Identity": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\lib\\microsoft\\signalr\\src\\XhrHttpClient.ts",
       "SourceId": "restorant.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\Restorant\\restorant.webui\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\Restorant\\restorant.webui\\wwwroot\\",
       "BasePath": "_content/restorant.webui",
       "RelativePath": "lib/microsoft/signalr/src/XhrHttpClient.ts",
       "AssetKind": "All",
